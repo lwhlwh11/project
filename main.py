@@ -28,6 +28,8 @@ st.markdown(
 """
 )
 
+st.write("hi")
+
 # def mapping_demo():
 #     import streamlit as st
 #     import pandas as pd
